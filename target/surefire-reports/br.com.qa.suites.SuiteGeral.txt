@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: br.com.qa.suites.SuiteGeral
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.037 sec <<< FAILURE! - in br.com.qa.suites.SuiteGeral
+RealizaPesquisa(br.com.qa.testes.PesquisarTeste)  Time elapsed: 6.269 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Com[ uma infraestrutura simples, entregue AplicaÃ§Ãµes para Mercado mais RÃ¡pido e Barato. Descobra como a IA acelera a IdentificaÃ§Ã£o da Raiz de Problemas com IBM. Descubra mais. Impacto Cloud. Descobrir Insights. Metodologias avanÃ§adas. IndÃºstria Focada Solution.â€]> but was:<Com[binatória Teste Designing no centro da solução w / IBM®. Saber mais. Aumente a velocidade de testes de apps c/ menos defeitos. Fale c/ um especialista IBM®. Implementação estratégica. Descobrir Insights. Metodologias avançadas. Gestão de Clientes.]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at br.com.qa.testes.PesquisarTeste.RealizaPesquisa(PesquisarTeste.java:21)
+

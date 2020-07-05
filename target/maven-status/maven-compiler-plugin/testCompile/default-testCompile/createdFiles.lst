@@ -1,0 +1,10 @@
+br\com\qa\suites\SuiteGeral.class
+br\com\qa\core\DriverFactory$1.class
+br\com\qa\core\Propriedades.class
+br\com\qa\core\Propriedades$Browsers.class
+br\com\qa\core\BasePage.class
+br\com\qa\core\BaseTest.class
+br\com\qa\core\DriverFactory.class
+br\com\qa\testes\PesquisarTeste.class
+br\com\qa\utils\DataUtils.class
+br\com\qa\pages\PesquisaPage.class
